@@ -1,2 +1,2 @@
-# python-guess
-game using python which is a number guessing game 
+# python-guess-game
+The python program in this game will guess a number. 
